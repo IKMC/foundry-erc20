@@ -1,0 +1,11 @@
+{
+  "Section Header": {
+    "prefix": "hsec",
+    "body": [
+      "/*//////////////////////////////////////////////////////////////",
+      "                        ${1:SECTION_NAME}",
+      "//////////////////////////////////////////////////////////////*/"
+    ],
+    "description": "Generate a transmissions11 style section header"
+  }
+}
